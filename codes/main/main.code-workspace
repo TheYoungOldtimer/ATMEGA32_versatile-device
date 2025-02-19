@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "main",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"eeprom_utils.h": "c",
+			"interrupt.h": "c"
+		}
+	}
+}
